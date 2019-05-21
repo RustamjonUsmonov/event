@@ -1,0 +1,7 @@
+C:\Users\RJ_DraGoN\source\repos\event\event\bin\Debug\@event.exe.config
+C:\Users\RJ_DraGoN\source\repos\event\event\bin\Debug\@event.exe
+C:\Users\RJ_DraGoN\source\repos\event\event\bin\Debug\@event.pdb
+C:\Users\RJ_DraGoN\source\repos\event\event\obj\Debug\event.csprojAssemblyReference.cache
+C:\Users\RJ_DraGoN\source\repos\event\event\obj\Debug\event.csproj.CoreCompileInputs.cache
+C:\Users\RJ_DraGoN\source\repos\event\event\obj\Debug\@event.exe
+C:\Users\RJ_DraGoN\source\repos\event\event\obj\Debug\@event.pdb
